@@ -1,0 +1,46 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Coca-Cola",
+      "industry": "Beverages",
+      "branding": "Open Happiness",
+      "image": "https://example.com/coca-cola.jpg"
+    },
+    {
+      "id": 2,
+      "name": "McDonald's",
+      "industry": "Fast Food",
+      "branding": "I'm Lovin' It",
+      "image": "https://example.com/mcdonalds.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Starbucks",
+      "industry": "Coffeehouse",
+      "branding": "Inspiring and Nurturing the Human Spirit",
+      "image": "https://example.com/starbucks.jpg"
+    },
+    {
+      "id": 4,
+      "name": "PepsiCo",
+      "industry": "Beverages and Snacks",
+      "branding": "For the Love of It",
+      "image": "https://example.com/pepsico.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nestlé",
+      "industry": "Food and Beverage",
+      "branding": "Good Food, Good Life",
+      "image": "https://example.com/nestle.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kellogg's",
+      "industry": "Food Processing",
+      "branding": "Let's Make Today Great",
+      "image": "https://example.com/kelloggs.jpg"
+    }
+  ]
+}
